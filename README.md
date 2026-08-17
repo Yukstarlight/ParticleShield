@@ -1,8 +1,6 @@
 
 # ParticleShield — The World's Strongest Open-Source Free Minecraft Firewall (Re-published)
 
-> **Important notice:** Due to unforeseen circumstances, the original GitHub repository has been taken down. This project has now been migrated to a new account and continues to be fully open-source under the MIT License — completely free, with all 69 protection modules, 56 languages, and enterprise-grade capabilities fully intact. Ongoing maintenance and updates are guaranteed.
-
 ---
 
 ## What is ParticleShield?
