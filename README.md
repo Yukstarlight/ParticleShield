@@ -1,6 +1,5 @@
 
-# ParticleShield — The World's Strongest Open-Source Free Minecraft Firewall (Re-published)
-
+# ParticleShield — The World's Strongest Open-Source Free Minecraft Firewall
 ---
 
 ## What is ParticleShield?
